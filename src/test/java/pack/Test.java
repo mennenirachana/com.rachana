@@ -1,11 +1,12 @@
 package pack;
 
-public class Test {
-
-	public static void main(String[] args) 
+public class Test 
+{
+    public static void main(String[] args) 
 	{
-		System.out.println("hi fellows");
-
+		int a=10;
+		int b=20;
+		System.out.println("addition is"+(a+b));
 	}
 
 }
