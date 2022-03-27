@@ -8,6 +8,8 @@ public class Test
 		int b=20;
 		System.out.println("addition is"+(a+b));
 		System.out.println("subtraction is"+(a-b));
+		System.out.println("subtraction is"+(a-b));
+		
 	}
 
 }
